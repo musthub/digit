@@ -9,7 +9,7 @@
 # Redirection globale pour application Single Page / Pi Browser
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/APP"
   status = 200
 
 # En-têtes de sécurité et compatibilité WebView Pi Browser
